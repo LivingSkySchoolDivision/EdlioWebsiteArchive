@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Git clone') {
             steps {
-                git branch: 'master',
+                git branch: 'main',
                     url: "https://github.com/LivingSkySchoolDivision/EdlioWebsiteArchive.git"
             }
         }
