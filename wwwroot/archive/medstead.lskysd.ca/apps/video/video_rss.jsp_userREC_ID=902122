@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/apps/shared/rss.xsl"?>
+
+
+
+
+
+
+
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+	<atom:link href="//medstead.lskysd.ca/apps/video/list.jsp?categoryREC_ID=-1&userREC_ID=902122" rel="self" type="application/rss+xml" />
+      <title>Medstead Central School - Greg Knot Videos </title>
+      <itunes:image href="//medstead.lskysd.ca/apps/pics/en_podcast.jpg" />
+      <link>//medstead.lskysd.ca/apps/video/list.jsp?categoryREC_ID=-1&userREC_ID=902122</link>
+      <description>Medstead Central School - Greg Knot Videos</description>
+      <language>en-us</language>
+      <generator>Edlio CMS</generator>
+			
+				<item>
+					<title><![CDATA[Medstead School Christmas Concert]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=1270</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=1270</guid>
+					
+						<description><![CDATA[K-6 Virtual Christmas Concert 2020]]></description>
+					
+					<pubDate>Sat, 06 Mar 2021 04:12:12 PST</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/12/12/LOT3Rmrv4sAMYE00BEcK3l28SzDYx3GLq8D3rOEJRRHJd1KEHlu1aLUGCcC7/Full Christmas Concert-1.m4v" type="video/mpeg" length="-1" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>32:45</itunes:duration>
+					
+					<itunes:subtitle>K-6 Virtual Christmas Concert 2020</itunes:subtitle>
+					<itunes:summary>K-6 Virtual Christmas Concert 2020</itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[Medstead Kindergarten 2020]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=532</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=532</guid>
+					
+					<pubDate>Sat, 22 Aug 2020 04:05:30 PDT</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/05/30/jS25i7nSUMFEfsh5K3CQmI9nwKm2uh5hAJRFDK75mGZhSbx3L57S81mgEHDV/K PPT Final.mp4" type="video/mpeg" length="576174529" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>3:29</itunes:duration>
+					
+					<itunes:subtitle></itunes:subtitle>
+					<itunes:summary></itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[Medstead School Remembrance Day 2020]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=1075</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=1075</guid>
+					
+						<description><![CDATA[Grade 12's and Mrs. Franson have put together a virtual Remembrance Day Ceremony for 2020.]]></description>
+					
+					<pubDate>Mon, 01 Feb 2021 04:11:09 PST</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/11/09/5S2WoJMHE1JvRXz8ZnVlYAtFFTVXqHlU6ftuprLFAoLTMQAdKR88ZqCQggc7/Remebrance Day 2020-1-1080p.mp4" type="video/mpeg" length="-1" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>16:47</itunes:duration>
+					
+					<itunes:subtitle>Grade 12's and Mrs. Franson have put together a virtual Remembrance Day Ceremony for 2020.</itunes:subtitle>
+					<itunes:summary>Grade 12's and Mrs. Franson have put together a virtual Remembrance Day Ceremony for 2020.</itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[2020 Grad Interviews]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=684</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=684</guid>
+					
+					<pubDate>Tue, 15 Sep 2020 04:06:23 PDT</pubDate>
+					<author>Greg Knot</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/06/23/MYMIXDwDYCRzKXHF0kgr5OFanpw58FHsBjZoHafYMOXSTMG9AHBXsMan3J2u/Grad Interviews.mov" type="video/mpeg" length="1657383825" />
+					
+					
+					<itunes:author>Greg Knot</itunes:author>
+					
+					<itunes:duration>13:45</itunes:duration>
+					
+					<itunes:subtitle></itunes:subtitle>
+					<itunes:summary></itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[Medstead 2020 Honour Program]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=614</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=614</guid>
+					
+						<description><![CDATA[Program celebrating the activities and achievements of the Medstead Central School Students for the 2020 year.]]></description>
+					
+					<pubDate>Wed, 09 Sep 2020 04:06:17 PDT</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/06/17/NbYnQXUCVQRlIL31yctttVe2laiTXCKGs3hPBhB8FXKIiWFjUy7sysbHOnBS/Medstead 2020 Honour Program.mp4" type="video/mpeg" length="641711475" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>35:40</itunes:duration>
+					
+					<itunes:subtitle>Program celebrating the activities and achievements of the Medstead Central School Students for the 2020 year.</itunes:subtitle>
+					<itunes:summary>Program celebrating the activities and achievements of the Medstead Central School Students for the 2020 year.</itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[Medstead Senior Girls Volleyball 2020]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=549</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=549</guid>
+					
+					<pubDate>Wed, 26 Aug 2020 04:06:03 PDT</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/06/03/84KDDfTIXBsVjYpePkLzHr6vwlV6Td1CXEIwMYZvKr001ySEqTzPfABUAJsc/Volleyball.MOV" type="video/mpeg" length="953337049" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>6:14</itunes:duration>
+					
+					<itunes:subtitle></itunes:subtitle>
+					<itunes:summary></itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[Medstead Christmas Concert 2020]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=1276</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=1276</guid>
+					
+						<description><![CDATA[K-6 Medstead Virtual Christmas Concert]]></description>
+					
+					<pubDate>Mon, 08 Mar 2021 04:12:14 PST</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/12/14/d5eciZ8DSkUfRQLAFeaQAWahNXRPjwnNDzbDSrBhGBqni2J6m59ktVxDHlit/Full Concert 2.0.m4v" type="video/mpeg" length="-1" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>32:43</itunes:duration>
+					
+					<itunes:subtitle>K-6 Medstead Virtual Christmas Concert</itunes:subtitle>
+					<itunes:summary>K-6 Medstead Virtual Christmas Concert</itunes:summary>
+				</item>
+			
+				<item>
+					<title><![CDATA[Grad 2020 Full Video]]></title>
+					<link>//medstead.lskysd.ca/apps/video/watch.jsp?v=692</link>
+					<guid isPermaLink="true">//medstead.lskysd.ca/apps/video/watch.jsp?v=692</guid>
+					
+						<description><![CDATA[Congratulations to the Grads of 2020! You will do amazing things!]]></description>
+					
+					<pubDate>Thu, 17 Sep 2020 04:06:25 PDT</pubDate>
+					<author>Medstead Central School</author>
+					
+					
+					<enclosure url="https://25.files.edl.io/LSKYSD-MECS/2020/06/25/ttq3vKZ7ugigzahlIJ40y5WKWUoJ1L9WCMgPiSfQX4jAWqk4ikX1UvqRc0Tp/Full Grad.m4v" type="video/mpeg" length="1144623013" />
+					
+					
+					<itunes:author>Medstead Central School</itunes:author>
+					
+					<itunes:duration>49:54</itunes:duration>
+					
+					<itunes:subtitle>Congratulations to the Grads of 2020! You will do amazing things!</itunes:subtitle>
+					<itunes:summary>Congratulations to the Grads of 2020! You will do amazing things!</itunes:summary>
+				</item>
+			
+   </channel>
+</rss>

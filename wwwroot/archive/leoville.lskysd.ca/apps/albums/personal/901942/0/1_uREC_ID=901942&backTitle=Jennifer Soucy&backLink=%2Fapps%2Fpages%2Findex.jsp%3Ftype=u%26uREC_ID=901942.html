@@ -1,0 +1,45 @@
+
+
+
+
+
+    <div id="breadcrumbs" class="breadcrumb">
+            <span data-qa="AlbumHome"><strong>Album Home &raquo;</strong></span>
+    </div>
+
+
+
+
+
+
+    <strong class="error-message">There are no photos in our album at this point.  Please check back soon...</strong><br><br>
+
+    <script type="text/javascript" src="../../../../webapps/common/jquery/3.1.1/jquery-pack.js"></script>
+    <script type="text/javascript" src="../../../../webapps/common/magnific-popup/1.1.0/jquery.magnific-popup-iframe-pack.js"></script>
+      <link rel="stylesheet" href="../../../../webapps/features/albums/css/albums_public_iframe-pack.css">
+    <script>
+        (function(jQuery) {
+            var jq3_1_1 = jQuery.noConflict(true);
+            jq3_1_1(document).ready(function() {
+                jq3_1_1('#album_thumbnails').each(function() {
+                    jq3_1_1(this).magnificPopup({
+                        delegate: 'a.gallery',
+                        type: 'image',
+                        gallery: {
+                            enabled: true
+                        },
+                        titleSrc: 'title',
+                        closeOnContentClick: true,
+                        closeBtnInside: false,
+                        mainClass: 'mfp-no-margins mfp-with-zoom',
+                        image: {verticalFit: true},
+                        zoom: {
+                            enabled: true,
+                            duration: 300
+                        }
+                    });
+                });
+            });
+        })(jQuery);
+    </script>
+

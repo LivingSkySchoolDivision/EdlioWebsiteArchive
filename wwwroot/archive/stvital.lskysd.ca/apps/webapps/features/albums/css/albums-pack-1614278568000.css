@@ -1,0 +1,934 @@
+.edlio.cms edlio-notification,
+.edlio.cms .edlio-notification,
+.inside-page edlio-notification,
+.inside-page .edlio-notification,
+#content_main edlio-notification,
+#content_main .edlio-notification {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.edlio.cms edlio-notification,
+.edlio.cms .edlio-notification,
+.inside-page edlio-notification,
+.inside-page .edlio-notification,
+#content_main edlio-notification,
+#content_main .edlio-notification {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.edlio.cms edlio-notification,
+.edlio.cms .edlio-notification,
+.inside-page edlio-notification,
+.inside-page .edlio-notification,
+#content_main edlio-notification,
+#content_main .edlio-notification {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.edlio.cms svg.icon,
+.inside-page svg.icon,
+#content_main svg.icon {
+  position: relative;
+  pointer-events: none;
+  vertical-align: middle;
+  fill: #444444; }
+
+.edlio.cms edlio-notification,
+.edlio.cms .edlio-notification,
+.inside-page edlio-notification,
+.inside-page .edlio-notification,
+#content_main edlio-notification,
+#content_main .edlio-notification {
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  border-radius: 0.24063em;
+  color: white; }
+  .edlio.cms edlio-notification.alert,
+  .edlio.cms .edlio-notification.alert,
+  .inside-page edlio-notification.alert,
+  .inside-page .edlio-notification.alert,
+  #content_main edlio-notification.alert,
+  #content_main .edlio-notification.alert {
+    color: #e07c3a;
+    box-shadow: inset 3.5em 0 0 2px #e07c3a, inset 0 0 0 2px #e07c3a; }
+    .edlio.cms edlio-notification.alert svg.icon,
+    .edlio.cms .edlio-notification.alert svg.icon,
+    .inside-page edlio-notification.alert svg.icon,
+    .inside-page .edlio-notification.alert svg.icon,
+    #content_main edlio-notification.alert svg.icon,
+    #content_main .edlio-notification.alert svg.icon {
+      position: relative;
+      pointer-events: none;
+      vertical-align: middle;
+      fill: #444444;
+      fill: white; }
+    .edlio.cms edlio-notification.alert .close,
+    .edlio.cms .edlio-notification.alert .close,
+    .inside-page edlio-notification.alert .close,
+    .inside-page .edlio-notification.alert .close,
+    #content_main edlio-notification.alert .close,
+    #content_main .edlio-notification.alert .close {
+      display: block; }
+      .edlio.cms edlio-notification.alert .close svg.icon,
+      .edlio.cms .edlio-notification.alert .close svg.icon,
+      .inside-page edlio-notification.alert .close svg.icon,
+      .inside-page .edlio-notification.alert .close svg.icon,
+      #content_main edlio-notification.alert .close svg.icon,
+      #content_main .edlio-notification.alert .close svg.icon {
+        position: relative;
+        pointer-events: none;
+        vertical-align: middle;
+        fill: #444444;
+        fill: #444444; }
+  .edlio.cms edlio-notification.confirmation,
+  .edlio.cms .edlio-notification.confirmation,
+  .inside-page edlio-notification.confirmation,
+  .inside-page .edlio-notification.confirmation,
+  #content_main edlio-notification.confirmation,
+  #content_main .edlio-notification.confirmation {
+    color: #33a468;
+    box-shadow: inset 3.5em 0 0 2px #33a468, inset 0 0 0 2px #33a468; }
+    .edlio.cms edlio-notification.confirmation svg.icon,
+    .edlio.cms .edlio-notification.confirmation svg.icon,
+    .inside-page edlio-notification.confirmation svg.icon,
+    .inside-page .edlio-notification.confirmation svg.icon,
+    #content_main edlio-notification.confirmation svg.icon,
+    #content_main .edlio-notification.confirmation svg.icon {
+      position: relative;
+      pointer-events: none;
+      vertical-align: middle;
+      fill: #444444;
+      fill: white; }
+    .edlio.cms edlio-notification.confirmation .close,
+    .edlio.cms .edlio-notification.confirmation .close,
+    .inside-page edlio-notification.confirmation .close,
+    .inside-page .edlio-notification.confirmation .close,
+    #content_main edlio-notification.confirmation .close,
+    #content_main .edlio-notification.confirmation .close {
+      display: block; }
+      .edlio.cms edlio-notification.confirmation .close svg.icon,
+      .edlio.cms .edlio-notification.confirmation .close svg.icon,
+      .inside-page edlio-notification.confirmation .close svg.icon,
+      .inside-page .edlio-notification.confirmation .close svg.icon,
+      #content_main edlio-notification.confirmation .close svg.icon,
+      #content_main .edlio-notification.confirmation .close svg.icon {
+        position: relative;
+        pointer-events: none;
+        vertical-align: middle;
+        fill: #444444;
+        fill: #444444; }
+  .edlio.cms edlio-notification .message,
+  .edlio.cms .edlio-notification .message,
+  .inside-page edlio-notification .message,
+  .inside-page .edlio-notification .message,
+  #content_main edlio-notification .message,
+  #content_main .edlio-notification .message {
+    -webkit-flex: 1 1 0%;
+    -ms-flex: 1 1 0%;
+    flex: 1 1 0%;
+    margin: 0 1em;
+    padding: 0 0 0 1em;
+    text-align: center; }
+    .edlio.cms edlio-notification .message h1,
+    .edlio.cms .edlio-notification .message h1,
+    .inside-page edlio-notification .message h1,
+    .inside-page .edlio-notification .message h1,
+    #content_main edlio-notification .message h1,
+    #content_main .edlio-notification .message h1 {
+      margin: 0;
+      font-weight: 600; }
+      @media screen and (max-width: 47.9375rem) {
+        .edlio.cms edlio-notification .message h1,
+        .edlio.cms .edlio-notification .message h1,
+        .inside-page edlio-notification .message h1,
+        .inside-page .edlio-notification .message h1,
+        #content_main edlio-notification .message h1,
+        #content_main .edlio-notification .message h1 {
+          font-size: 1rem;
+          line-height: 1.5rem; } }
+      @media screen and (min-width: 48rem) {
+        .edlio.cms edlio-notification .message h1,
+        .edlio.cms .edlio-notification .message h1,
+        .inside-page edlio-notification .message h1,
+        .inside-page .edlio-notification .message h1,
+        #content_main edlio-notification .message h1,
+        #content_main .edlio-notification .message h1 {
+          font-size: 1rem;
+          line-height: 1.5rem; } }
+      @media screen and (min-width: 64rem) {
+        .edlio.cms edlio-notification .message h1,
+        .edlio.cms .edlio-notification .message h1,
+        .inside-page edlio-notification .message h1,
+        .inside-page .edlio-notification .message h1,
+        #content_main edlio-notification .message h1,
+        #content_main .edlio-notification .message h1 {
+          font-size: 1.0625rem;
+          line-height: 1.59375rem; } }
+      @media screen and (min-width: 75rem) {
+        .edlio.cms edlio-notification .message h1,
+        .edlio.cms .edlio-notification .message h1,
+        .inside-page edlio-notification .message h1,
+        .inside-page .edlio-notification .message h1,
+        #content_main edlio-notification .message h1,
+        #content_main .edlio-notification .message h1 {
+          font-size: 1.125rem;
+          line-height: 1.6875rem; } }
+      .edlio.cms edlio-notification .message h1:not(:only-child),
+      .edlio.cms .edlio-notification .message h1:not(:only-child),
+      .inside-page edlio-notification .message h1:not(:only-child),
+      .inside-page .edlio-notification .message h1:not(:only-child),
+      #content_main edlio-notification .message h1:not(:only-child),
+      #content_main .edlio-notification .message h1:not(:only-child) {
+        margin: .5em 0; }
+    .edlio.cms edlio-notification .message p,
+    .edlio.cms .edlio-notification .message p,
+    .inside-page edlio-notification .message p,
+    .inside-page .edlio-notification .message p,
+    #content_main edlio-notification .message p,
+    #content_main .edlio-notification .message p {
+      margin-bottom: .5em;
+      color: #888888; }
+    @media screen and (max-width: 47.9375rem) {
+      .edlio.cms edlio-notification .message .disclaimer,
+      .edlio.cms .edlio-notification .message .disclaimer,
+      .inside-page edlio-notification .message .disclaimer,
+      .inside-page .edlio-notification .message .disclaimer,
+      #content_main edlio-notification .message .disclaimer,
+      #content_main .edlio-notification .message .disclaimer {
+        font-size: 0.875rem;
+        line-height: 1.5rem; } }
+    @media screen and (min-width: 48rem) {
+      .edlio.cms edlio-notification .message .disclaimer,
+      .edlio.cms .edlio-notification .message .disclaimer,
+      .inside-page edlio-notification .message .disclaimer,
+      .inside-page .edlio-notification .message .disclaimer,
+      #content_main edlio-notification .message .disclaimer,
+      #content_main .edlio-notification .message .disclaimer {
+        font-size: 0.875rem;
+        line-height: 1.5rem; } }
+    @media screen and (min-width: 64rem) {
+      .edlio.cms edlio-notification .message .disclaimer,
+      .edlio.cms .edlio-notification .message .disclaimer,
+      .inside-page edlio-notification .message .disclaimer,
+      .inside-page .edlio-notification .message .disclaimer,
+      #content_main edlio-notification .message .disclaimer,
+      #content_main .edlio-notification .message .disclaimer {
+        font-size: 0.9375rem;
+        line-height: 1.59375rem; } }
+    @media screen and (min-width: 75rem) {
+      .edlio.cms edlio-notification .message .disclaimer,
+      .edlio.cms .edlio-notification .message .disclaimer,
+      .inside-page edlio-notification .message .disclaimer,
+      .inside-page .edlio-notification .message .disclaimer,
+      #content_main edlio-notification .message .disclaimer,
+      #content_main .edlio-notification .message .disclaimer {
+        font-size: 1rem;
+        line-height: 1.6875rem; } }
+  .edlio.cms edlio-notification .close,
+  .edlio.cms .edlio-notification .close,
+  .inside-page edlio-notification .close,
+  .inside-page .edlio-notification .close,
+  #content_main edlio-notification .close,
+  #content_main .edlio-notification .close {
+    -ms-flex-item-align: start;
+    -webkit-align-self: flex-start;
+    align-self: flex-start;
+    padding: 0;
+    cursor: pointer; }
+    .edlio.cms edlio-notification .close .icon,
+    .edlio.cms .edlio-notification .close .icon,
+    .inside-page edlio-notification .close .icon,
+    .inside-page .edlio-notification .close .icon,
+    #content_main edlio-notification .close .icon,
+    #content_main .edlio-notification .close .icon {
+      border-radius: 0.24063em; }
+
+.edlio.cms [data-tooltip],
+.inside-page [data-tooltip],
+#content_main [data-tooltip] {
+  position: relative; }
+  .edlio.cms [data-tooltip]:before, .edlio.cms [data-tooltip]:after,
+  .inside-page [data-tooltip]:before,
+  .inside-page [data-tooltip]:after,
+  #content_main [data-tooltip]:before,
+  #content_main [data-tooltip]:after {
+    position: absolute;
+    z-index: 2;
+    display: inline-block;
+    visibility: hidden;
+    opacity: 0; }
+    @media screen and (max-width: 47.9375rem) {
+      .edlio.cms [data-tooltip]:before, .edlio.cms [data-tooltip]:after,
+      .inside-page [data-tooltip]:before,
+      .inside-page [data-tooltip]:after,
+      #content_main [data-tooltip]:before,
+      #content_main [data-tooltip]:after {
+        display: none;
+        visibility: hidden;
+        opacity: 0; } }
+  .edlio.cms [data-tooltip]:before,
+  .inside-page [data-tooltip]:before,
+  #content_main [data-tooltip]:before {
+    content: '';
+    transition: all 0.1146s cubic-bezier(0.44, 0.01, 0.37, 0.99) 0.1146s; }
+  .edlio.cms [data-tooltip]:after,
+  .inside-page [data-tooltip]:after,
+  #content_main [data-tooltip]:after {
+    content: attr(data-tooltip);
+    width: 12em;
+    height: auto;
+    overflow: hidden;
+    background-color: #333333;
+    text-align: center;
+    color: white;
+    pointer-events: none;
+    transition: all 0.3s cubic-bezier(0.44, 0.01, 0.37, 0.99) 0.1854s; }
+    @media screen and (max-width: 47.9375rem) {
+      .edlio.cms [data-tooltip]:after,
+      .inside-page [data-tooltip]:after,
+      #content_main [data-tooltip]:after {
+        font-size: 14px;
+        line-height: 24px; } }
+    @media screen and (min-width: 48rem) {
+      .edlio.cms [data-tooltip]:after,
+      .inside-page [data-tooltip]:after,
+      #content_main [data-tooltip]:after {
+        font-size: 14px;
+        line-height: 24px; } }
+    @media screen and (min-width: 64rem) {
+      .edlio.cms [data-tooltip]:after,
+      .inside-page [data-tooltip]:after,
+      #content_main [data-tooltip]:after {
+        font-size: 15px;
+        line-height: 25.5px; } }
+    @media screen and (min-width: 75rem) {
+      .edlio.cms [data-tooltip]:after,
+      .inside-page [data-tooltip]:after,
+      #content_main [data-tooltip]:after {
+        font-size: 16px;
+        line-height: 27px; } }
+  .edlio.cms [data-tooltip]:hover:before,
+  .inside-page [data-tooltip]:hover:before,
+  #content_main [data-tooltip]:hover:before {
+    transition: all 0.3s cubic-bezier(0.44, 0.01, 0.37, 0.99) 0.3s; }
+  .edlio.cms [data-tooltip]:hover:before, .edlio.cms [data-tooltip]:hover:after,
+  .inside-page [data-tooltip]:hover:before,
+  .inside-page [data-tooltip]:hover:after,
+  #content_main [data-tooltip]:hover:before,
+  #content_main [data-tooltip]:hover:after {
+    opacity: 1;
+    visibility: visible; }
+  .edlio.cms [data-tooltip][data-tooltip-position="top"]:before,
+  .inside-page [data-tooltip][data-tooltip-position="top"]:before,
+  #content_main [data-tooltip][data-tooltip-position="top"]:before {
+    top: -2.5em;
+    left: 50%;
+    margin-left: -1.382em;
+    border-top: 1.382em solid #333333;
+    border-left: 1.382em solid transparent;
+    border-right: 1.382em solid transparent; }
+  .edlio.cms [data-tooltip][data-tooltip-position="top"]:after,
+  .inside-page [data-tooltip][data-tooltip-position="top"]:after,
+  #content_main [data-tooltip][data-tooltip-position="top"]:after {
+    left: 50%;
+    bottom: 100%;
+    margin-left: -6em; }
+  .edlio.cms [data-tooltip][data-tooltip-position="top"]:hover:before,
+  .inside-page [data-tooltip][data-tooltip-position="top"]:hover:before,
+  #content_main [data-tooltip][data-tooltip-position="top"]:hover:before {
+    -webkit-transform: translateY(1em);
+    transform: translateY(1em); }
+  .edlio.cms [data-tooltip][data-tooltip-position="top"]:hover:after,
+  .inside-page [data-tooltip][data-tooltip-position="top"]:hover:after,
+  #content_main [data-tooltip][data-tooltip-position="top"]:hover:after {
+    -webkit-transform: translateY(-1em);
+    transform: translateY(-1em); }
+  .edlio.cms [data-tooltip][data-tooltip-position="bottom"]:before,
+  .inside-page [data-tooltip][data-tooltip-position="bottom"]:before,
+  #content_main [data-tooltip][data-tooltip-position="bottom"]:before {
+    bottom: -2.5em;
+    right: 50%;
+    margin-right: -1.382em;
+    border-top: none;
+    border-bottom: 1.382em solid #333333;
+    border-left: 1.382em solid transparent;
+    border-right: 1.382em solid transparent; }
+  .edlio.cms [data-tooltip][data-tooltip-position="bottom"]:after,
+  .inside-page [data-tooltip][data-tooltip-position="bottom"]:after,
+  #content_main [data-tooltip][data-tooltip-position="bottom"]:after {
+    top: 100%;
+    right: 50%;
+    margin-right: -6em; }
+  .edlio.cms [data-tooltip][data-tooltip-position="bottom"]:hover:before,
+  .inside-page [data-tooltip][data-tooltip-position="bottom"]:hover:before,
+  #content_main [data-tooltip][data-tooltip-position="bottom"]:hover:before {
+    -webkit-transform: translateY(-1em);
+    transform: translateY(-1em); }
+  .edlio.cms [data-tooltip][data-tooltip-position="bottom"]:hover:after,
+  .inside-page [data-tooltip][data-tooltip-position="bottom"]:hover:after,
+  #content_main [data-tooltip][data-tooltip-position="bottom"]:hover:after {
+    -webkit-transform: translateY(1em);
+    transform: translateY(1em); }
+
+.edlio.cms .album a,
+.inside-page .album a,
+#content_main .album a {
+  text-decoration: underline;
+  font-weight: normal; }
+
+.edlio.cms #content_wrapper,
+.inside-page #content_wrapper,
+#content_main #content_wrapper {
+  padding-top: 2.5em !important; }
+
+.edlio.cms #popupTable,
+.inside-page #popupTable,
+#content_main #popupTable {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+.edlio.cms #popupWindow,
+.inside-page #popupWindow,
+#content_main #popupWindow {
+  overflow-x: auto;
+  overflow-y: scroll; }
+
+.edlio.cms #ada_alert > svg,
+.inside-page #ada_alert > svg,
+#content_main #ada_alert > svg {
+  height: 2em;
+  width: 2em;
+  fill: #fff;
+  margin-left: 0.8em; }
+
+.edlio.cms #photosTable,
+.inside-page #photosTable,
+#content_main #photosTable {
+  width: 100%; }
+
+.edlio.cms .photoRow .photo_data,
+.inside-page .photoRow .photo_data,
+#content_main .photoRow .photo_data {
+  width: 19%;
+  padding: 4px 2px 0px 2px; }
+
+.edlio.cms .inner-table .tbody .tr1,
+.inside-page .inner-table .tbody .tr1,
+#content_main .inner-table .tbody .tr1 {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  background-color: #fafafa;
+  border: 2px solid #e0e0e0;
+  font-size: 0.625em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding: 0 2px; }
+
+.edlio.cms #albums,
+.inside-page #albums,
+#content_main #albums {
+  text-decoration: underline; }
+
+.edlio.cms .columns,
+.inside-page .columns,
+#content_main .columns {
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns: 2;
+  -webkit-column-gap: 5px;
+  -moz-column-gap: 5px;
+  display: inline-block;
+  vertical-align: top; }
+
+.edlio.cms .flex-albums,
+.inside-page .flex-albums,
+#content_main .flex-albums {
+  display: flex;
+  margin-bottom: 1em; }
+  .edlio.cms .flex-albums ul,
+  .inside-page .flex-albums ul,
+  #content_main .flex-albums ul {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%; }
+    .edlio.cms .flex-albums ul li,
+    .inside-page .flex-albums ul li,
+    #content_main .flex-albums ul li {
+      margin: 0 1em;
+      width: 40%; }
+      .edlio.cms .flex-albums ul li a,
+      .inside-page .flex-albums ul li a,
+      #content_main .flex-albums ul li a {
+        text-decoration: none;
+        height: 100%; }
+        .edlio.cms .flex-albums ul li a > div,
+        .inside-page .flex-albums ul li a > div,
+        #content_main .flex-albums ul li a > div {
+          width: 100%;
+          height: 10em; }
+        .edlio.cms .flex-albums ul li a > span,
+        .inside-page .flex-albums ul li a > span,
+        #content_main .flex-albums ul li a > span {
+          line-height: 1.5em; }
+        .edlio.cms .flex-albums ul li a:hover,
+        .inside-page .flex-albums ul li a:hover,
+        #content_main .flex-albums ul li a:hover {
+          cursor: pointer;
+          text-decoration: underline; }
+
+.edlio.cms .files,
+.inside-page .files,
+#content_main .files {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-bottom: 2em;
+  margin-top: 0.382em; }
+
+.edlio.cms .files .file,
+.inside-page .files .file,
+#content_main .files .file {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  width: 11em;
+  padding: 0.3em;
+  margin: 0.382em;
+  align-items: center; }
+
+.edlio.cms .files .file img,
+.inside-page .files .file img,
+#content_main .files .file img {
+  height: 8em;
+  width: 100%; }
+
+.edlio.cms .files .file .name,
+.inside-page .files .file .name,
+#content_main .files .file .name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #888888;
+  text-align: center;
+  margin-top: 0.618em; }
+
+.edlio.cms edlio-file-uploader .errors,
+.inside-page edlio-file-uploader .errors,
+#content_main edlio-file-uploader .errors {
+  text-align: left; }
+
+.edlio.cms #album_thumbnails,
+.inside-page #album_thumbnails,
+#content_main #album_thumbnails {
+  margin-top: 1em;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+
+.edlio.cms #album_thumbnails table,
+.inside-page #album_thumbnails table,
+#content_main #album_thumbnails table {
+  margin: auto;
+  border-collapse: collapse; }
+
+.edlio.cms #album_thumbnails a,
+.inside-page #album_thumbnails a,
+#content_main #album_thumbnails a {
+  text-decoration: none;
+  margin: 1em; }
+
+.edlio.cms #album_thumbnails img,
+.inside-page #album_thumbnails img,
+#content_main #album_thumbnails img {
+  min-width: 100%;
+  min-height: 100%;
+  display: block;
+  margin: 0 auto;
+  height: 100%;
+  max-width: 100%;
+  object-fit: cover; }
+
+.edlio.cms .mobile #album_thumbnails,
+.inside-page .mobile #album_thumbnails,
+#content_main .mobile #album_thumbnails {
+  display: block; }
+
+.edlio.cms .mobile #album_thumbnails img,
+.inside-page .mobile #album_thumbnails img,
+#content_main .mobile #album_thumbnails img {
+  vertical-align: baseline; }
+
+.edlio.cms uniform-modal,
+.inside-page uniform-modal,
+#content_main uniform-modal {
+  min-width: 16rem;
+  max-width: 40em; }
+  .edlio.cms uniform-modal page,
+  .inside-page uniform-modal page,
+  #content_main uniform-modal page {
+    width: 30rem; }
+
+.edlio.cms page.alternate-text,
+.inside-page page.alternate-text,
+#content_main page.alternate-text {
+  width: 30rem; }
+  .edlio.cms page.alternate-text [data-tooltip],
+  .inside-page page.alternate-text [data-tooltip],
+  #content_main page.alternate-text [data-tooltip] {
+    position: relative; }
+    .edlio.cms page.alternate-text [data-tooltip]:before, .edlio.cms page.alternate-text [data-tooltip]:after,
+    .inside-page page.alternate-text [data-tooltip]:before,
+    .inside-page page.alternate-text [data-tooltip]:after,
+    #content_main page.alternate-text [data-tooltip]:before,
+    #content_main page.alternate-text [data-tooltip]:after {
+      position: absolute;
+      z-index: 2;
+      display: inline-block;
+      visibility: hidden;
+      opacity: 0; }
+      @media screen and (max-width: 47.9375rem) {
+        .edlio.cms page.alternate-text [data-tooltip]:before, .edlio.cms page.alternate-text [data-tooltip]:after,
+        .inside-page page.alternate-text [data-tooltip]:before,
+        .inside-page page.alternate-text [data-tooltip]:after,
+        #content_main page.alternate-text [data-tooltip]:before,
+        #content_main page.alternate-text [data-tooltip]:after {
+          display: none;
+          visibility: hidden;
+          opacity: 0; } }
+    .edlio.cms page.alternate-text [data-tooltip]:before,
+    .inside-page page.alternate-text [data-tooltip]:before,
+    #content_main page.alternate-text [data-tooltip]:before {
+      content: '';
+      transition: all 0.1146s cubic-bezier(0.44, 0.01, 0.37, 0.99) 0.1146s; }
+    .edlio.cms page.alternate-text [data-tooltip]:after,
+    .inside-page page.alternate-text [data-tooltip]:after,
+    #content_main page.alternate-text [data-tooltip]:after {
+      content: attr(data-tooltip);
+      width: 12em;
+      height: auto;
+      overflow: hidden;
+      background-color: #333333;
+      text-align: center;
+      color: white;
+      pointer-events: none;
+      transition: all 0.3s cubic-bezier(0.44, 0.01, 0.37, 0.99) 0.1854s; }
+      @media screen and (max-width: 47.9375rem) {
+        .edlio.cms page.alternate-text [data-tooltip]:after,
+        .inside-page page.alternate-text [data-tooltip]:after,
+        #content_main page.alternate-text [data-tooltip]:after {
+          font-size: 14px;
+          line-height: 24px; } }
+      @media screen and (min-width: 48rem) {
+        .edlio.cms page.alternate-text [data-tooltip]:after,
+        .inside-page page.alternate-text [data-tooltip]:after,
+        #content_main page.alternate-text [data-tooltip]:after {
+          font-size: 14px;
+          line-height: 24px; } }
+      @media screen and (min-width: 64rem) {
+        .edlio.cms page.alternate-text [data-tooltip]:after,
+        .inside-page page.alternate-text [data-tooltip]:after,
+        #content_main page.alternate-text [data-tooltip]:after {
+          font-size: 15px;
+          line-height: 25.5px; } }
+      @media screen and (min-width: 75rem) {
+        .edlio.cms page.alternate-text [data-tooltip]:after,
+        .inside-page page.alternate-text [data-tooltip]:after,
+        #content_main page.alternate-text [data-tooltip]:after {
+          font-size: 16px;
+          line-height: 27px; } }
+    .edlio.cms page.alternate-text [data-tooltip]:hover:before,
+    .inside-page page.alternate-text [data-tooltip]:hover:before,
+    #content_main page.alternate-text [data-tooltip]:hover:before {
+      transition: all 0.3s cubic-bezier(0.44, 0.01, 0.37, 0.99) 0.3s; }
+    .edlio.cms page.alternate-text [data-tooltip]:hover:before, .edlio.cms page.alternate-text [data-tooltip]:hover:after,
+    .inside-page page.alternate-text [data-tooltip]:hover:before,
+    .inside-page page.alternate-text [data-tooltip]:hover:after,
+    #content_main page.alternate-text [data-tooltip]:hover:before,
+    #content_main page.alternate-text [data-tooltip]:hover:after {
+      opacity: 1;
+      visibility: visible; }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="top"]:before,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="top"]:before,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="top"]:before {
+      top: -2.5em;
+      left: 50%;
+      margin-left: -1.382em;
+      border-top: 1.382em solid #333333;
+      border-left: 1.382em solid transparent;
+      border-right: 1.382em solid transparent; }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="top"]:after,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="top"]:after,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="top"]:after {
+      left: 50%;
+      bottom: 100%;
+      margin-left: -6em; }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="top"]:hover:before,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="top"]:hover:before,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="top"]:hover:before {
+      -webkit-transform: translateY(1em);
+      transform: translateY(1em); }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="top"]:hover:after,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="top"]:hover:after,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="top"]:hover:after {
+      -webkit-transform: translateY(-1em);
+      transform: translateY(-1em); }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:before,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:before,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:before {
+      bottom: -2.5em;
+      right: 50%;
+      margin-right: -1.382em;
+      border-top: none;
+      border-bottom: 1.382em solid #333333;
+      border-left: 1.382em solid transparent;
+      border-right: 1.382em solid transparent; }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:after,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:after,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:after {
+      top: 100%;
+      right: 50%;
+      margin-right: -6em; }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:hover:before,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:hover:before,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:hover:before {
+      -webkit-transform: translateY(-1em);
+      transform: translateY(-1em); }
+    .edlio.cms page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:hover:after,
+    .inside-page page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:hover:after,
+    #content_main page.alternate-text [data-tooltip][data-tooltip-position="bottom"]:hover:after {
+      -webkit-transform: translateY(1em);
+      transform: translateY(1em); }
+  .edlio.cms page.alternate-text *,
+  .inside-page page.alternate-text *,
+  #content_main page.alternate-text * {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 16px; }
+  .edlio.cms page.alternate-text header,
+  .inside-page page.alternate-text header,
+  #content_main page.alternate-text header {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between; }
+    .edlio.cms page.alternate-text header h1,
+    .inside-page page.alternate-text header h1,
+    #content_main page.alternate-text header h1 {
+      font-size: 2.25rem;
+      margin-bottom: .5em; }
+    .edlio.cms page.alternate-text header .cancel,
+    .inside-page page.alternate-text header .cancel,
+    #content_main page.alternate-text header .cancel {
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+    .edlio.cms page.alternate-text header svg,
+    .inside-page page.alternate-text header svg,
+    #content_main page.alternate-text header svg {
+      width: 1.5em;
+      height: 1.5em; }
+  .edlio.cms page.alternate-text .content,
+  .inside-page page.alternate-text .content,
+  #content_main page.alternate-text .content {
+    width: 100%; }
+    .edlio.cms page.alternate-text .content > input,
+    .inside-page page.alternate-text .content > input,
+    #content_main page.alternate-text .content > input {
+      width: 100%;
+      margin-bottom: 0;
+      border: 1px solid #767676;
+      box-shadow: none; }
+  .edlio.cms page.alternate-text .alt-modal-footer,
+  .inside-page page.alternate-text .alt-modal-footer,
+  #content_main page.alternate-text .alt-modal-footer {
+    display: flex;
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between; }
+    .edlio.cms page.alternate-text .alt-modal-footer .secondary.button,
+    .inside-page page.alternate-text .alt-modal-footer .secondary.button,
+    #content_main page.alternate-text .alt-modal-footer .secondary.button {
+      background: white;
+      color: #555555;
+      box-shadow: inset 0 0 0 1px #cccccc;
+      border: none; }
+
+.edlio.cms p.alert,
+.inside-page p.alert,
+#content_main p.alert {
+  color: #e07c3a; }
+
+.edlio.cms .photoGrid .photo_data .photo,
+.edlio.cms .photos .photo_data .photo,
+.inside-page .photoGrid .photo_data .photo,
+.inside-page .photos .photo_data .photo,
+#content_main .photoGrid .photo_data .photo,
+#content_main .photos .photo_data .photo {
+  display: block; }
+
+.edlio.cms .photo,
+.inside-page .photo,
+#content_main .photo {
+  display: block; }
+
+.edlio.cms .photoGrid .td img,
+.inside-page .photoGrid .td img,
+#content_main .photoGrid .td img {
+  border: 1px solid #e0e0e0; }
+
+.edlio.cms .photoGrid .td,
+.inside-page .photoGrid .td,
+#content_main .photoGrid .td {
+  padding: 4px 2px 0px 2px; }
+
+.edlio.cms .photoGrid .topHeader,
+.inside-page .photoGrid .topHeader,
+#content_main .photoGrid .topHeader {
+  padding: 3px;
+  width: 100%; }
+
+.edlio.cms .photo.ada-warning.missing-alt-text img,
+.edlio.cms .photos .photo_data .photo.ada-warning.missing-alt-text img,
+.inside-page .photo.ada-warning.missing-alt-text img,
+.inside-page .photos .photo_data .photo.ada-warning.missing-alt-text img,
+#content_main .photo.ada-warning.missing-alt-text img,
+#content_main .photos .photo_data .photo.ada-warning.missing-alt-text img {
+  opacity: 0.236; }
+
+.edlio.cms .pn,
+.inside-page .pn,
+#content_main .pn {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+  background-color: #fafafa;
+  border: 1px solid #e0e0e0;
+  font-weight: bold;
+  text-decoration: none; }
+
+.edlio.cms .pn .td,
+.inside-page .pn .td,
+#content_main .pn .td {
+  padding: 0px 0px 0px 3px; }
+
+.edlio.cms .uploader_help,
+.inside-page .uploader_help,
+#content_main .uploader_help {
+  display: flex;
+  margin: -15px auto 0;
+  background-color: #f1f1f1; }
+
+.edlio.cms .uploader_help > *,
+.inside-page .uploader_help > *,
+#content_main .uploader_help > * {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.edlio.cms .all-done,
+.edlio.cms .having-problems,
+.inside-page .all-done,
+.inside-page .having-problems,
+#content_main .all-done,
+#content_main .having-problems {
+  flex: 0 0 50%;
+  padding: 1em;
+  text-align: center;
+  font-family: Arial, sans-serif; }
+
+.edlio.cms .all-done,
+.inside-page .all-done,
+#content_main .all-done {
+  background: url("http://stvital.lskysd.ca/apps/pics/white_dashed_border.png") no-repeat right center; }
+
+.edlio.cms .uploader_help h1,
+.inside-page .uploader_help h1,
+#content_main .uploader_help h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 21px;
+  font-weight: normal; }
+
+.edlio.cms .uploader_help a,
+.inside-page .uploader_help a,
+#content_main .uploader_help a {
+  font-size: 17px; }
+
+.edlio.cms #uploader,
+.inside-page #uploader,
+#content_main #uploader {
+  min-height: 270px; }
+
+.edlio.cms #savebutton,
+.inside-page #savebutton,
+#content_main #savebutton {
+  color: white;
+  font-size: 1em; }
+
+.edlio.cms .photoContainer,
+.inside-page .photoContainer,
+#content_main .photoContainer {
+  display: flex;
+  flex-wrap: wrap; }
+
+.edlio.cms .photo-container,
+.inside-page .photo-container,
+#content_main .photo-container {
+  max-height: 125px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.edlio.cms .photos .photoGrid img,
+.inside-page .photos .photoGrid img,
+#content_main .photos .photoGrid img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  object-fit: cover;
+  width: auto;
+  height: auto; }
+
+.edlio.cms .thumbnail-container,
+.inside-page .thumbnail-container,
+#content_main .thumbnail-container {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.edlio.cms .mfp-wrap.mfp-gallery.mfp-no-margins.mfp-with-zoom.mfp-ready .mfp-content > div > figure > img,
+.inside-page .mfp-wrap.mfp-gallery.mfp-no-margins.mfp-with-zoom.mfp-ready .mfp-content > div > figure > img,
+#content_main .mfp-wrap.mfp-gallery.mfp-no-margins.mfp-with-zoom.mfp-ready .mfp-content > div > figure > img {
+  background-color: white;
+  background-clip: content-box; }
+
+.edlio.cms #foot_poweredby,
+.inside-page #foot_poweredby,
+#content_main #foot_poweredby {
+  height: 1.5em; }
+
+/*# sourceMappingURL=../../../maps/features/albums/css/albums-pack.css.map */

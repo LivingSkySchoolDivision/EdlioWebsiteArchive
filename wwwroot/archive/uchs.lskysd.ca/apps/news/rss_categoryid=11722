@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://uchs.lskysd.ca/apps/news/rss?categoryid=11722" rel="self" type="application/rss+xml" />
+		<title>News (Unity Composite High School)</title>
+		<link>http://uchs.lskysd.ca/apps/news/category/11722</link>
+		<description>News</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[2020/21 School Community Council Meetings Dates]]></title>
+				<link>http://uchs.lskysd.ca/apps/news/article/812898</link>
+				<guid isPermaLink="true">http://uchs.lskysd.ca/apps/news/article/812898</guid>
+					<description><![CDATA[November 9, December 14, February 8, March 8  &  April 12
+April 26 AGM]]></description>
+				
+
+
+				<pubDate>Fri, 09 Oct 2020 10:22:23 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Edsby News!]]></title>
+				<link>http://uchs.lskysd.ca/apps/news/article/812503</link>
+				<guid isPermaLink="true">http://uchs.lskysd.ca/apps/news/article/812503</guid>
+					<description><![CDATA[Parent/Guardian Access to Edsby
+Living Sky School Division No. 202 is using Edsby as a parent/guardian portal. Edsby allows you to to see your child's grades, and communicate directly with your child's school. Edsby can also be used to view your child's attendance, explain absences, and notify the school of future absences.
+Parents/Guardians who have provided the school with their current email address should have received an email Invite to create an Edsby account.
+If you have not yet received an Invite, please contact your child’s school to verify your contact/email information.
+For assistance with logging into Edsby, please visit: https://edsby.lskysd.ca/parents.html
+If you have successfully logged into Edsby and would like to review/adjust your notification settings (attendance/class activity), please see our parent notification guide here: Setting up Parent Notifications in Edsby App.pdf]]></description>
+				
+
+
+				<pubDate>Fri, 25 Sep 2020 10:57:38 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[UCHS Safe School Re-opening Plan]]></title>
+				<link>http://uchs.lskysd.ca/apps/news/article/811573</link>
+				<guid isPermaLink="true">http://uchs.lskysd.ca/apps/news/article/811573</guid>
+					<description><![CDATA[Click on the link above to view our safe plans for the 2020/21 school year.]]></description>
+				
+
+
+				<pubDate>Tue, 18 Aug 2020 20:14:23 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Virtual BINGO - Thursday, February 11th]]></title>
+				<link>http://uchs.lskysd.ca/apps/news/article/816827</link>
+				<guid isPermaLink="true">http://uchs.lskysd.ca/apps/news/article/816827</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/5259/21/02/11/023740-7bf5e5ad-1ecd-4646-bc78-0ecc1489a893.jpeg" />
+
+
+				<pubDate>Thu, 11 Feb 2021 08:30:00 -0600</pubDate>
+			</item>
+	</channel>
+</rss>

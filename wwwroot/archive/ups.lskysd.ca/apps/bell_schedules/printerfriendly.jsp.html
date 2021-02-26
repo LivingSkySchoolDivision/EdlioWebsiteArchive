@@ -1,0 +1,155 @@
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title>Unity Public School &#8212; Bell Schedules (Printer Friendly)</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="description" content="Unity Public School &#8212; Bell Schedules (Printer Friendly)">
+
+	<link rel="icon" href="../../favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon">
+	<style type="text/css" media="screen, print" charset="utf-8">
+		body {	font-family: sans-serif; font-size: 9pt; }
+		.bell-schedule { width: 600px; border-bottom: 1px solid #aaa; margin: 20px auto;}
+		.separate-pages { page-break-after: always; }
+		.last-bell-schedule { page-break-after: auto !important; }
+		.bell-schedule caption {
+			border-top: 3px solid #aaa;
+			font-size: 1.5em;
+			padding: .4em 0;
+		}
+		.bell-schedule caption a {
+			text-decoration: none;
+			color: inherit;
+		}
+		.bell-schedule-description {
+			font-style: oblique;
+			border-bottom: 1px solid #ccc;
+			padding-top: .8em !important;
+		}
+		h1 { text-align: center; }
+		address {
+			font-style: normal;
+			text-align: center;
+			display: block;
+		}
+		th { text-align: left; }
+		#separate-pages { text-align: center; }
+		.bell-schedule thead { display: table-row-group; }
+		.bell-schedule, #bell-schedule-intro-text { width: 600px; margin: 0 auto 20px; }
+		.bell-schedule { border-bottom: 1px solid #aaa; }
+		tbody tr {
+			border-bottom: 1px solid #ccc;
+			line-height: 28px;
+		}
+	</style>
+	<style type="text/css" media="print">
+		#separate-pages { display: none; }
+	</style>
+
+	<script src="../js/jquery/1.4.2/jquery-pack.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" charset="utf-8">
+		jQuery(document).ready(function($) {
+			var separateEl = $('#separate-pages input[type=checkbox]');
+			var separateChecked = function(e) {
+				if ((separateEl).is(':checked')) $('.bell-schedule').addClass('separate-pages');
+				else $('.bell-schedule').removeClass('separate-pages');
+			}
+			$('#separate-pages input[type=checkbox]').click( function(e) { separateChecked(); })
+			separateChecked();
+		});
+	</script>
+</head>
+<body>
+
+	<h1>Unity Public School &#8212; Bell Schedules</h1>
+	<p id="separate-pages"><label><input type="checkbox"> Print schedules on separate pages</label></p>
+	
+
+	
+		<table class="bell-schedule last-bell-schedule">
+			<caption class="dark"><a href='index.jsp_id=194.html'>School Bell Schedule</a></caption>
+			<thead>
+				
+
+				
+					<tr id="real-headers" class="lightBorderBottom">
+						<th width="40%"><span style="visibility: hidden;">Description / Section</span></th>
+						<th style="width: 8em;">Start Time</th>
+						<th>End Time</th>
+						<th>Length</th>
+					</tr>
+				
+			</thead>
+
+			<tbody class="light">
+			
+					<tr>
+						<td width="40%">Warning bell rings</td>
+						<td>8:50 AM</td>
+						<td>&#8212;</td>
+						<td>&#8212;</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Classes Start</td>
+						<td>8:55 AM</td>
+						<td>&#8212;</td>
+						<td>&#8212;</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Recess</td>
+						<td>10:30 AM</td>
+						<td>10:43 AM</td>
+						<td>13 min</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Lunch dismissal</td>
+						<td>11:45 AM</td>
+						<td>&#8212;</td>
+						<td>&#8212;</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Noon recess</td>
+						<td>12:05 PM</td>
+						<td>12:25 PM</td>
+						<td>20 min</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Classes Begin</td>
+						<td>12:30 PM</td>
+						<td>&#8212;</td>
+						<td>&#8212;</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Recess</td>
+						<td>2:00 PM</td>
+						<td>2:13 PM</td>
+						<td>13 min</td>
+					</tr>
+				
+					<tr>
+						<td width="40%">Dismissal</td>
+						<td>3:20 PM</td>
+						<td>&#8212;</td>
+						<td>&#8212;</td>
+					</tr>
+				
+			</tbody>
+		</table>
+	
+
+	<address>Unity Public School - Box 1150, 3rd Avenue East, Unity, SK S0K 4L0 - Phone: (306) 228-4177 - Fax: </address>
+
+</body>
+</html>

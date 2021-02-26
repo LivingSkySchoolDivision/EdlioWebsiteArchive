@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://www.lskysd.ca/apps/news/rss?categoryid=11127" rel="self" type="application/rss+xml" />
+		<title>News &amp; Announcements (Living Sky School Division No. 202)</title>
+		<link>http://www.lskysd.ca/apps/news/category/11127</link>
+		<description>News &amp; Announcements</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[Click Here for Bus Cancellation Notices]]></title>
+				<link>http://www.lskysd.ca/apps/news/article/815481</link>
+				<guid isPermaLink="true">http://www.lskysd.ca/apps/news/article/815481</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/19e1/21/01/05/152314-b8b05a75-69b6-46db-b810-bf5c320e00ae.png" />
+
+
+				<pubDate>Tue, 23 Feb 2021 22:24:39 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[LSSD Return to School Plan]]></title>
+				<link>http://www.lskysd.ca/apps/news/article/811603</link>
+				<guid isPermaLink="true">http://www.lskysd.ca/apps/news/article/811603</guid>
+					<description><![CDATA[Updated on December 30th]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/08d7/20/08/20/041157-23370117-9b4b-4f07-a73d-0694b1bef108.jpg" />
+
+
+				<pubDate>Thu, 31 Dec 2020 10:34:33 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[CoVid-19 Communication]]></title>
+				<link>http://www.lskysd.ca/apps/news/article/809399</link>
+				<guid isPermaLink="true">http://www.lskysd.ca/apps/news/article/809399</guid>
+					<description><![CDATA[REMINDER: Mask wearing, proper hygiene, physical distancing and staying home when sick are all ways to keep you and your loved ones healthy.]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/5a33/20/09/03/151239-8bf340ff-bd96-4a52-84fc-bd6d40d88946.png" />
+
+
+				<pubDate>Tue, 09 Feb 2021 13:59:49 -0600</pubDate>
+			</item>
+	</channel>
+</rss>

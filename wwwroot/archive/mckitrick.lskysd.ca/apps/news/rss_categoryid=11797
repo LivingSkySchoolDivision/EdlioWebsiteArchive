@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://mckitrick.lskysd.ca/apps/news/rss?categoryid=11797" rel="self" type="application/rss+xml" />
+		<title>News (McKitrick Community School)</title>
+		<link>http://mckitrick.lskysd.ca/apps/news/category/11797</link>
+		<description>News</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[2020-2021 School Year Calendar]]></title>
+				<link>http://mckitrick.lskysd.ca/apps/news/article/811624</link>
+				<guid isPermaLink="true">http://mckitrick.lskysd.ca/apps/news/article/811624</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/286e/20/08/20/191936-749eacc4-7b15-4206-a45b-5979c9f706ec.png" />
+
+
+				<pubDate>Thu, 20 Aug 2020 14:19:40 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Click Here to Download McKitrick's Return to School Plan for Parents]]></title>
+				<link>http://mckitrick.lskysd.ca/apps/news/article/811599</link>
+				<guid isPermaLink="true">http://mckitrick.lskysd.ca/apps/news/article/811599</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/5252/20/08/19/211048-f99d1291-cae4-414e-99f4-1a2857e53d09.png" />
+
+
+				<pubDate>Sun, 23 Aug 2020 12:05:53 -0500</pubDate>
+			</item>
+	</channel>
+</rss>

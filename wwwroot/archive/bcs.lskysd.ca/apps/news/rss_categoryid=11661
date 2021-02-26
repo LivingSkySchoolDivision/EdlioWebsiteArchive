@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://bcs.lskysd.ca/apps/news/rss?categoryid=11661" rel="self" type="application/rss+xml" />
+		<title>News &amp; Announcements (Battleford Central School)</title>
+		<link>http://bcs.lskysd.ca/apps/news/category/11661</link>
+		<description>News &amp; Announcements</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[BCS REGISTRATION]]></title>
+				<link>http://bcs.lskysd.ca/apps/news/article/815648</link>
+				<guid isPermaLink="true">http://bcs.lskysd.ca/apps/news/article/815648</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/9f67/21/01/08/201104-12ced0f4-d280-4729-a875-0382409a87ee.png" />
+
+
+				<pubDate>Fri, 08 Jan 2021 14:11:17 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Click Here to download the BCS Return to School Info Pamphlet]]></title>
+				<link>http://bcs.lskysd.ca/apps/news/article/811594</link>
+				<guid isPermaLink="true">http://bcs.lskysd.ca/apps/news/article/811594</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/8b39/20/08/19/194045-14781d35-f0ad-44b0-bae3-a07fbf6f2a9a.png" />
+
+
+				<pubDate>Tue, 01 Sep 2020 20:01:20 -0500</pubDate>
+			</item>
+	</channel>
+</rss>

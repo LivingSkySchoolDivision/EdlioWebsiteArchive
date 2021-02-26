@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://heritage.lskysd.ca/apps/news/rss?categoryid=11746" rel="self" type="application/rss+xml" />
+		<title>News (Heritage Christian School)</title>
+		<link>http://heritage.lskysd.ca/apps/news/category/11746</link>
+		<description>News</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[A Special edition of the Heritage Herald is coming]]></title>
+				<link>http://heritage.lskysd.ca/apps/news/article/814702</link>
+				<guid isPermaLink="true">http://heritage.lskysd.ca/apps/news/article/814702</guid>
+					<description><![CDATA[It's unlike anything you've ever seen!]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/2b48/20/12/04/171835-edf16c73-cf0f-4911-8823-60e42b16e899.jfif" />
+
+
+				<pubDate>Fri, 15 Jan 2021 13:48:27 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Heritage Christian School Safe School Plan]]></title>
+				<link>http://heritage.lskysd.ca/apps/news/article/811667</link>
+				<guid isPermaLink="true">http://heritage.lskysd.ca/apps/news/article/811667</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/d0fd/20/08/24/192138-625c4646-4450-443a-8775-d476a95083bd.png" />
+
+
+				<pubDate>Mon, 24 Aug 2020 14:21:40 -0500</pubDate>
+			</item>
+	</channel>
+</rss>

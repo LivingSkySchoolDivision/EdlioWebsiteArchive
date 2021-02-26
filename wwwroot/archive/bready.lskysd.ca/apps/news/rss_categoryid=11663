@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://bready.lskysd.ca/apps/news/rss?categoryid=11663" rel="self" type="application/rss+xml" />
+		<title>News (Bready Elementary School)</title>
+		<link>http://bready.lskysd.ca/apps/news/category/11663</link>
+		<description>News</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[Citrus Fundraiser]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/816456</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/816456</guid>
+					<description><![CDATA[Feb. 10-Feb. 26]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/7929/21/02/01/204144-035cef0b-993b-476b-84bc-710a1dfe988d.jpg" />
+
+
+				<pubDate>Fri, 12 Feb 2021 11:27:31 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[SCHOOL YEAR CALENDAR 2020 - 2021]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/811606</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/811606</guid>
+					<description><![CDATA[2020/21 School Calendar w/PLC dates]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/aef1/20/10/29/164442-1b0adf72-9f09-4cab-8abb-5933529749b2.jpg" />
+
+
+				<pubDate>Thu, 29 Oct 2020 11:44:56 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Click here to download the Bready Return to School Plan for Parents]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/811601</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/811601</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/5ecf/20/08/19/230235-414473e8-28e5-43b0-830f-7a45c36904c7.png" />
+
+
+				<pubDate>Wed, 19 Aug 2020 18:03:01 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Bready School Accepts Etransfers!!]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/809092</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/809092</guid>
+					<description><![CDATA[bready@lskysd.ca]]></description>
+				
+
+
+				<pubDate>Wed, 19 Aug 2020 17:58:49 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Online Learning Consent Form]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/815740</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/815740</guid>
+					<description><![CDATA[Please ensure you have signed the online learning consent form for your child.]]></description>
+				
+
+
+				<pubDate>Tue, 12 Jan 2021 14:12:18 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[School Buildings Closed January 14th]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/815816</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/815816</guid>
+					<description><![CDATA[Classes will still continue online]]></description>
+				
+
+
+				<pubDate>Wed, 13 Jan 2021 14:22:20 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Thank you!]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/814696</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/814696</guid>
+					<description><![CDATA[We appreciate your support of our book fair!]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/25e1/20/12/04/161208-ef1dd37e-6f9b-4085-924f-2d656c80ac82.jpg" />
+
+
+				<pubDate>Fri, 04 Dec 2020 10:14:23 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Our Virtual Book Fair is on now!]]></title>
+				<link>http://bready.lskysd.ca/apps/news/article/813852</link>
+				<guid isPermaLink="true">http://bready.lskysd.ca/apps/news/article/813852</guid>
+					<description><![CDATA[Today is the last day to order!]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/b583/20/12/03/161935-10fc79dc-d3bc-4a9a-9ff9-6917ff5cdac0.jpg" />
+
+
+				<pubDate>Thu, 03 Dec 2020 10:19:58 -0600</pubDate>
+			</item>
+	</channel>
+</rss>

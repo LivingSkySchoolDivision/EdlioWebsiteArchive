@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://nbchs.lskysd.ca/apps/news/rss?categoryid=11711" rel="self" type="application/rss+xml" />
+		<title>News (North Battleford Comprehensive High School)</title>
+		<link>http://nbchs.lskysd.ca/apps/news/category/11711</link>
+		<description>News</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[February Student Schedule]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/816094</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/816094</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/4600/21/02/12/201834-62e924e5-0bc6-4f30-99d6-92132a586b1b.jpg" />
+
+
+				<pubDate>Fri, 12 Feb 2021 14:20:11 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[March Student Schedule]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/816844</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/816844</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/6f59/21/02/11/154347-1601e1bc-1f4c-4771-b168-d4b64e103e61.jpg" />
+
+
+				<pubDate>Thu, 11 Feb 2021 09:43:51 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[DAILY ANNOUNCEMENTS - Week of Feb 22, 2021]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/812181</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/812181</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/ee42/20/09/23/205806-94480675-ee35-4c8d-8439-e8ae9c9a6dea.png" />
+
+
+				<pubDate>Tue, 23 Feb 2021 08:20:19 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[School Day Schedule 2020-2021]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/812712</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/812712</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/eaef/20/10/16/164622-8e96e502-6ce5-4a36-b4b1-7ef153a3dc6b.jpg" />
+
+
+				<pubDate>Fri, 16 Oct 2020 11:46:28 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Re-Opening Plan Updated Nov. 30]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/814640</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/814640</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/eb37/20/12/03/150120-df1a5ba0-ff80-4a46-ac57-942d6a5c8f05.jpg" />
+
+
+				<pubDate>Thu, 03 Dec 2020 09:02:16 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[NBCHS Safe School Plan]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/811602</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/811602</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/8c63/20/11/13/213208-308d73bf-3f96-4392-8848-efa9fbc0219e.jpg" />
+
+
+				<pubDate>Fri, 13 Nov 2020 15:32:14 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[2020-2021 School Year Calendar]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/810634</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/810634</guid>
+				
+
+
+				<pubDate>Thu, 20 Aug 2020 10:03:41 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[NBCHS Newsletter]]></title>
+				<link>http://nbchs.lskysd.ca/apps/news/article/809068</link>
+				<guid isPermaLink="true">http://nbchs.lskysd.ca/apps/news/article/809068</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/aa37/20/03/02/155956-64c63a0a-aa2d-4141-9309-1e9145936f53.jpg" />
+
+
+				<pubDate>Tue, 02 Feb 2021 11:46:03 -0600</pubDate>
+			</item>
+	</channel>
+</rss>

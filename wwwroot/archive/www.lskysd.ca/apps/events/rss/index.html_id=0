@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/apps/shared/rss.xsl"?>
+<rss version="2.0">
+	<channel>
+		<title>Living Sky School Division No. 202 - Events</title>
+		<link>//www.lskysd.ca/apps/events/?id=0&amp;y=2021&amp;m=02</link>
+		<description>Events</description>
+		<language>en-us</language>
+		<generator>Edlio CMS</generator>
+				<item>
+					<title><![CDATA[Family Day (No School - Feb. 15-19)]]></title>
+					<link>//www.lskysd.ca/apps/events/2021/1/15/51456/?REC_ID=51456&amp;d=2021-1-15</link>
+					<guid isPermaLink="false">//www.lskysd.ca/eventItem51,456 2021-02-15</guid>
+					<description><![CDATA[
+						<b>2/15/2021</b>
+						<b>10:00 AM &ndash; 11:00 AM</b>
+					]]></description>
+					<pubDate>Sun, 27 Sep 2020 08:35:29 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[Days in Lieu of Student-Led Conference (No School - Feb. 15-19)]]></title>
+					<link>//www.lskysd.ca/apps/events/2021/1/16/51457/?REC_ID=51457&amp;d=2021-1-16</link>
+					<guid isPermaLink="false">//www.lskysd.ca/eventItem51,457 2021-02-16</guid>
+					<description><![CDATA[
+						<b>2/16/2021</b>
+					]]></description>
+					<pubDate>Sun, 27 Sep 2020 08:28:01 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[Days in Lieu of Student-Led Conference (No School - Feb. 15-19)]]></title>
+					<link>//www.lskysd.ca/apps/events/2021/1/17/51457/?REC_ID=51457&amp;d=2021-1-17</link>
+					<guid isPermaLink="false">//www.lskysd.ca/eventItem51,457 2021-02-17</guid>
+					<description><![CDATA[
+						<b>2/17/2021</b>
+					]]></description>
+					<pubDate>Sun, 27 Sep 2020 08:28:01 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[Winter Break (No School Feb. 15-19)]]></title>
+					<link>//www.lskysd.ca/apps/events/2021/1/18/51458/?REC_ID=51458&amp;d=2021-1-18</link>
+					<guid isPermaLink="false">//www.lskysd.ca/eventItem51,458 2021-02-18</guid>
+					<description><![CDATA[
+						<b>2/18/2021</b>
+					]]></description>
+					<pubDate>Sun, 27 Sep 2020 08:28:43 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[Winter Break (No School Feb. 15-19)]]></title>
+					<link>//www.lskysd.ca/apps/events/2021/1/19/51458/?REC_ID=51458&amp;d=2021-1-19</link>
+					<guid isPermaLink="false">//www.lskysd.ca/eventItem51,458 2021-02-19</guid>
+					<description><![CDATA[
+						<b>2/19/2021</b>
+					]]></description>
+					<pubDate>Sun, 27 Sep 2020 08:28:43 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[Return to School - Welcome Back!]]></title>
+					<link>//www.lskysd.ca/apps/events/2021/1/22/51466/?REC_ID=51466&amp;d=2021-1-22</link>
+					<guid isPermaLink="false">//www.lskysd.ca/eventItem51,466 2021-02-22</guid>
+					<description><![CDATA[
+						<b>2/22/2021</b>
+					]]></description>
+					<pubDate>Sun, 27 Sep 2020 08:36:03 CDT</pubDate>
+				</item>
+   </channel>
+</rss>

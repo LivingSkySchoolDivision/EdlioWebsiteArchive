@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://connaught.lskysd.ca/apps/news/rss?categoryid=11666" rel="self" type="application/rss+xml" />
+		<title>News &amp; Announcements (Connaught Elementary School)</title>
+		<link>http://connaught.lskysd.ca/apps/news/category/11666</link>
+		<description>News &amp; Announcements</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[Registration for the 2020-2021 school year!]]></title>
+				<link>http://connaught.lskysd.ca/apps/news/article/810497</link>
+				<guid isPermaLink="true">http://connaught.lskysd.ca/apps/news/article/810497</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/bc27/20/08/20/174621-53706476-da9d-4788-bfcf-8c29ca28dbc5.png" />
+
+
+				<pubDate>Thu, 20 Aug 2020 12:46:26 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[2020-2021 Calendar]]></title>
+				<link>http://connaught.lskysd.ca/apps/news/article/811622</link>
+				<guid isPermaLink="true">http://connaught.lskysd.ca/apps/news/article/811622</guid>
+					<description><![CDATA[We will have a staggered start to the school year. The first week students will come every second day decided by their last name: 
+
+ 
+
+Sept. 8th last names A-M
+
+September 9th last names N-Z 
+
+September 10th last names A-M again
+
+September 11th last names N-Z again
+
+For the first week of school (September 8-11th), all students and families will meet outside of the school in designated areas of the school yard. Parents will be able to find their child’s grade and teacher by finding the grade labeled sign that will be staked in various spots in our schoolyard. Teachers will be at their grade labeled sign to greet and welcome families.
+
+Pre-K students will start school the week of September 14-18th. We will be in touch with Pre-K families regarding specific details.
+
+We are excited to begin the 2020-21 school year!!]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/4c28/20/08/20/172540-bc0848b6-6b0b-400f-904a-091bff8ba8a5.png" />
+
+
+				<pubDate>Thu, 20 Aug 2020 12:47:25 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Connaught School Return to School Plan]]></title>
+				<link>http://connaught.lskysd.ca/apps/news/article/811587</link>
+				<guid isPermaLink="true">http://connaught.lskysd.ca/apps/news/article/811587</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/8621/20/08/19/164323-59566cb3-5839-4dff-8f5b-8e6a79ff03c1.jpg" />
+
+
+				<pubDate>Thu, 20 Aug 2020 12:41:37 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Canada Emergency Response Benefit]]></title>
+				<link>http://connaught.lskysd.ca/apps/news/article/809754</link>
+				<guid isPermaLink="true">http://connaught.lskysd.ca/apps/news/article/809754</guid>
+					<description><![CDATA[Please follow the link provided]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/88f2/20/04/06/182745-427ae192-eb5a-432d-b1ee-93a8defd3bdf.jpeg" />
+
+
+				<pubDate>Mon, 06 Apr 2020 13:28:14 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Connecting Families Initiative]]></title>
+				<link>http://connaught.lskysd.ca/apps/news/article/809753</link>
+				<guid isPermaLink="true">http://connaught.lskysd.ca/apps/news/article/809753</guid>
+					<description><![CDATA[Affordable at-home internet for qualifying homes.]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/9939/20/04/06/182515-ac8c0641-205c-428a-9789-eba2232bf5ed.jpg" />
+
+
+				<pubDate>Mon, 06 Apr 2020 13:25:54 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Staying connected during Covid-19]]></title>
+				<link>http://connaught.lskysd.ca/apps/news/article/809752</link>
+				<guid isPermaLink="true">http://connaught.lskysd.ca/apps/news/article/809752</guid>
+					<description><![CDATA[Please know that as a school, we are 100% commited to stay connected with ALL of our families.]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/97f0/20/04/06/180302-a7fef02c-c607-4bf6-98ec-6ba40df34d3d.jpg" />
+
+
+				<pubDate>Mon, 06 Apr 2020 13:13:24 -0500</pubDate>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://leoville.lskysd.ca/apps/news/rss?categoryid=11724" rel="self" type="application/rss+xml" />
+		<title>News (Leoville Central School)</title>
+		<link>http://leoville.lskysd.ca/apps/news/category/11724</link>
+		<description>News</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+		
+			<item>
+				<title><![CDATA[COVID Communications]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/816455</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/816455</guid>
+					<description><![CDATA[Click here for all COVID related communications publicized by the Living Sky School Division.]]></description>
+				
+					<media:content medium="image" url="https://23.files.edl.io/4587/21/02/01/202910-e4005f43-278f-4e86-9f20-7010028ed793.jpg" />
+
+
+				<pubDate>Mon, 01 Feb 2021 14:39:08 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[L.C.S. Newsletter - December 2020]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/816013</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/816013</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/7e5a/21/01/20/172147-443c83ce-f46a-47b9-813c-5f293c7f2020.jpg" />
+
+
+				<pubDate>Wed, 20 Jan 2021 11:21:51 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[L.C.S. Newsletter - October_November_2020]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/812925</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/812925</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/3a8d/20/10/09/215619-2ddb9dfd-b8dd-4a33-8220-c07c73bad787.jpg" />
+
+
+				<pubDate>Wed, 20 Jan 2021 11:18:25 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[2020-2021 Kindergarten/PreK Calendar]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/811388</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/811388</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/8507/20/07/19/175814-5a9ad5ed-a85b-4874-83d2-2bc687b6468e.jpg" />
+
+
+				<pubDate>Fri, 09 Oct 2020 16:50:27 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[2020-2021 Instructional Calendar]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/811387</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/811387</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/3946/20/07/19/175327-d1a41c8f-fbb3-4226-a221-53d805f3c3b9.jpg" />
+
+
+				<pubDate>Sun, 19 Jul 2020 13:03:09 -0500</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[Busses Cancelled - Wednesday, Feb 10th]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/816779</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/816779</guid>
+				
+
+
+				<pubDate>Wed, 10 Feb 2021 07:35:33 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[BUSES CANCELLED - FEBRUARY 8th, 2021]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/816701</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/816701</guid>
+				
+
+
+				<pubDate>Mon, 08 Feb 2021 07:12:32 -0600</pubDate>
+			</item>
+		
+			<item>
+				<title><![CDATA[2020-2021 School Supply List]]></title>
+				<link>http://leoville.lskysd.ca/apps/news/article/811386</link>
+				<guid isPermaLink="true">http://leoville.lskysd.ca/apps/news/article/811386</guid>
+				
+					<media:content medium="image" url="https://23.files.edl.io/f616/20/07/19/061428-d7348b97-1242-4a83-ad9b-e0069a00bbd0.png" />
+
+
+				<pubDate>Sun, 19 Jul 2020 01:21:51 -0500</pubDate>
+			</item>
+	</channel>
+</rss>

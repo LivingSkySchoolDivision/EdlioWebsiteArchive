@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<atom:link href="http://ckcs.lskysd.ca/apps/news/rss?categoryid=11739" rel="self" type="application/rss+xml" />
+		<title>News &amp; Announcements (Cut Knife Community School)</title>
+		<link>http://ckcs.lskysd.ca/apps/news/category/11739</link>
+		<description>News &amp; Announcements</description>
+		<language>en-us</language>
+		<generator>SchoolSitePro</generator>
+
+	</channel>
+</rss>

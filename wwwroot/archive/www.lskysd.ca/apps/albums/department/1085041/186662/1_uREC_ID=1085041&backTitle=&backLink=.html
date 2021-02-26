@@ -1,0 +1,59 @@
+
+
+
+
+
+    <div id="breadcrumbs" class="breadcrumb">
+            <span data-qa="AlbumHome"><strong>Album Home &raquo;</strong></span>
+    </div>
+
+
+
+
+<br><br>
+<div class="flex-albums">
+    <ul>
+                    <li><a data-qa="albumlink_Track and Field 2014" href="../186663/1_uREC_ID=1085041&amp;backTitle=&amp;backLink=.html">
+                        <span>Track and Field 2014</span>
+                    </a></li>
+    </ul>
+</div>
+
+
+    <div id="album_thumbnails">
+                <a href="https://23.files.edl.io/06fd/19/08/15/195740-059f4375-98fb-4d9e-8a93-1143a8ef1d9d.jpg" rel="album" class="gallery" target="_blank" title="">
+                    <div class="thumbnail-container" style="width: 150px;height: 150px;" >
+                        <img src="https://23.files.edl.io/06fd/19/08/15/195740-059f4375-98fb-4d9e-8a93-1143a8ef1d9d.jpg" alt="" width="inherit" style="max-width: 150px;max-height: 150px;">
+                    </div>
+                </a>
+    </div>
+
+    <script type="text/javascript" src="../../../../webapps/common/jquery/3.1.1/jquery-pack.js"></script>
+    <script type="text/javascript" src="../../../../webapps/common/magnific-popup/1.1.0/jquery.magnific-popup-iframe-pack.js"></script>
+      <link rel="stylesheet" href="../../../../webapps/features/albums/css/albums_public_iframe-pack.css">
+    <script>
+        (function(jQuery) {
+            var jq3_1_1 = jQuery.noConflict(true);
+            jq3_1_1(document).ready(function() {
+                jq3_1_1('#album_thumbnails').each(function() {
+                    jq3_1_1(this).magnificPopup({
+                        delegate: 'a.gallery',
+                        type: 'image',
+                        gallery: {
+                            enabled: true
+                        },
+                        titleSrc: 'title',
+                        closeOnContentClick: true,
+                        closeBtnInside: false,
+                        mainClass: 'mfp-no-margins mfp-with-zoom',
+                        image: {verticalFit: true},
+                        zoom: {
+                            enabled: true,
+                            duration: 300
+                        }
+                    });
+                });
+            });
+        })(jQuery);
+    </script>
+

@@ -1,0 +1,57 @@
+
+
+
+
+
+    <div id="breadcrumbs" class="breadcrumb">
+            <span data-qa="AlbumHome"><strong>Album Home &raquo;</strong></span>
+    </div>
+
+
+
+
+
+<center class="error-message">Pre-Kindergarten Applications<br><br></center>
+
+    <div id="album_thumbnails">
+                <a href="https://23.files.edl.io/a490/20/03/05/184530-14c9fdc3-a86c-4ac8-9977-a9ed946c1d80.jpg" rel="album" class="gallery" target="_blank" title="">
+                    <div class="thumbnail-container" style="width: 150px;height: 150px;" >
+                        <img src="https://23.files.edl.io/a490/20/03/05/184530-14c9fdc3-a86c-4ac8-9977-a9ed946c1d80.jpg" alt="" width="inherit" style="max-width: 150px;max-height: 150px;">
+                    </div>
+                </a>
+                <a href="https://23.files.edl.io/d822/20/03/05/184546-729a0cd8-bbf5-4e38-a09d-9450141b8f26.jpg" rel="album" class="gallery" target="_blank" title="">
+                    <div class="thumbnail-container" style="width: 150px;height: 150px;" >
+                        <img src="https://23.files.edl.io/d822/20/03/05/184546-729a0cd8-bbf5-4e38-a09d-9450141b8f26.jpg" alt="" width="inherit" style="max-width: 150px;max-height: 150px;">
+                    </div>
+                </a>
+    </div>
+
+    <script type="text/javascript" src="http://stvital.lskysd.ca/apps/webapps/common/jquery/3.1.1/jquery-pack.js"></script>
+    <script type="text/javascript" src="http://stvital.lskysd.ca/apps/webapps/common/magnific-popup/1.1.0/jquery.magnific-popup-iframe-pack.js"></script>
+      <link rel="stylesheet" href="../../../../webapps/features/albums/css/albums_public_iframe-pack.css">
+    <script>
+        (function(jQuery) {
+            var jq3_1_1 = jQuery.noConflict(true);
+            jq3_1_1(document).ready(function() {
+                jq3_1_1('#album_thumbnails').each(function() {
+                    jq3_1_1(this).magnificPopup({
+                        delegate: 'a.gallery',
+                        type: 'image',
+                        gallery: {
+                            enabled: true
+                        },
+                        titleSrc: 'title',
+                        closeOnContentClick: true,
+                        closeBtnInside: false,
+                        mainClass: 'mfp-no-margins mfp-with-zoom',
+                        image: {verticalFit: true},
+                        zoom: {
+                            enabled: true,
+                            duration: 300
+                        }
+                    });
+                });
+            });
+        })(jQuery);
+    </script>
+

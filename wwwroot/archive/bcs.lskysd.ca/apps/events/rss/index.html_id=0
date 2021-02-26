@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/apps/shared/rss.xsl"?>
+<rss version="2.0">
+	<channel>
+		<title>Battleford Central School - Events</title>
+		<link>//bcs.lskysd.ca/apps/events/?id=0&amp;y=2021&amp;m=02</link>
+		<description>Events</description>
+		<language>en-us</language>
+		<generator>Edlio CMS</generator>
+				<item>
+					<title><![CDATA[February Break]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/15/52980/?REC_ID=52980&amp;d=2021-1-15</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,980 2021-02-15</guid>
+					<description><![CDATA[
+						<b>2/15/2021</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:08:17 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[February Break]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/16/52981/?REC_ID=52981&amp;d=2021-1-16</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,981 2021-02-16</guid>
+					<description><![CDATA[
+						<b>2/16/2021</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:08:39 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[February Break]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/17/52982/?REC_ID=52982&amp;d=2021-1-17</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,982 2021-02-17</guid>
+					<description><![CDATA[
+						<b>2/17/2021</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:08:53 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[February Break]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/17/52983/?REC_ID=52983&amp;d=2021-1-17</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,983 2021-02-17</guid>
+					<description><![CDATA[
+						<b>2/17/2021</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:09:13 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[February Break]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/18/52984/?REC_ID=52984&amp;d=2021-1-18</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,984 2021-02-18</guid>
+					<description><![CDATA[
+						<b>2/18/2021</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:09:32 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[February Break]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/19/52985/?REC_ID=52985&amp;d=2021-1-19</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,985 2021-02-19</guid>
+					<description><![CDATA[
+						<b>2/19/2021</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:09:58 CDT</pubDate>
+				</item>
+				<item>
+					<title><![CDATA[Early Dismissal]]></title>
+					<link>//bcs.lskysd.ca/apps/events/2021/1/24/52988/?REC_ID=52988&amp;d=2021-1-24</link>
+					<guid isPermaLink="false">//bcs.lskysd.ca/eventItem52,988 2021-02-24</guid>
+					<description><![CDATA[
+						<b>2/24/2021</b>
+						<b>1:45 PM &ndash; 3:27 PM</b>
+					]]></description>
+					<pubDate>Tue, 20 Oct 2020 09:11:59 CDT</pubDate>
+				</item>
+   </channel>
+</rss>

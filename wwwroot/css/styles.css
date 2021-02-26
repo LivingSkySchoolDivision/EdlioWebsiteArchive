@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	padding: 10px;
+	font-family: sans-serif;;
+	background-color: #FFFFFF; /* 5f82b1 */
+}
+
+.lssd_logo {
+	height: 135px;
+}
+
+section {
+    text-align: left;
+}
+
+.page_container {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+li {
+	margin-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+
+hr {
+	border: 0;
+	border-top: 1px solid rgba(0,0,0,0.2)
+}

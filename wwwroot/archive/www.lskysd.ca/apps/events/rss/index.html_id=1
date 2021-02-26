@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/apps/shared/rss.xsl"?>
+<rss version="2.0">
+	<channel>
+		<title>Living Sky School Division No. 202 - Athletic Calendar</title>
+		<link>//www.lskysd.ca/apps/events/?id=1&amp;y=2021&amp;m=02</link>
+		<description>Athletic Calendar</description>
+		<language>en-us</language>
+		<generator>Edlio CMS</generator>
+   </channel>
+</rss>
