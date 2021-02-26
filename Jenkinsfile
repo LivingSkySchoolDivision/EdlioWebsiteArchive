@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        DOCKERREPO = 'utilitywebsites/myschoolsasklinkpage'
+        DOCKERREPO = 'websitearchive/edliowebsites'
         FULL_DOCKER_REPO = "${PRIVATE_DOCKER_REGISTRY}/${DOCKERREPO}"
         TAG = "${BUILD_TIMESTAMP}"
     }
@@ -9,7 +9,7 @@ pipeline {
         stage('Git clone') {
             steps {
                 git branch: 'master',
-                    url: "https://github.com/LivingSkySchoolDivision/MySchoolSaskLinkPage.git"
+                    url: "https://github.com/LivingSkySchoolDivision/EdlioWebsiteArchive.git"
             }
         }
         stage('Docker build') {
